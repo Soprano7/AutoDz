@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AutoDz/static/css/main.073c9b0a.css",
+    "main.js": "/AutoDz/static/js/main.dfbc0dee.js",
+    "static/js/787.177e23c2.chunk.js": "/AutoDz/static/js/787.177e23c2.chunk.js",
+    "index.html": "/AutoDz/index.html",
+    "main.073c9b0a.css.map": "/AutoDz/static/css/main.073c9b0a.css.map",
+    "main.dfbc0dee.js.map": "/AutoDz/static/js/main.dfbc0dee.js.map",
+    "787.177e23c2.chunk.js.map": "/AutoDz/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dfbc0dee.js"
+  ]
+}
